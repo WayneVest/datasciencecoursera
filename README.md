@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repo for Coursera JHU Data Science Specialisation
+Repo for Coursera Johns Hopkins University Data Science Specialisation
